@@ -984,8 +984,7 @@
 		</div><!-- /end Register/Login moda -->
 
 		<!-- ===== SCRIPTS ===== -->
-
-		<script src='../ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+		<script src='{{URL::asset("ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js")}}'></script>
 		<!-- <script src='js/vendor/jquery.min.js'></script> -->
 
 		<script src="js/plugins.js"></script>
